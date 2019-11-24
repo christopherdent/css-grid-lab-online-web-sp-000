@@ -20,10 +20,12 @@ body {
 
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
-  height: 550%;
+  height: 50%;
   width: 50%;
   justify-self: start;
   align-self: start;
 }
-
+.img {
+  position: center;
+}
 /* add the .bigItem class */
