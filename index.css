@@ -20,7 +20,7 @@ body {
 
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
-  height: 50%;
+  height: 550%;
   width: 50%;
   justify-self: start;
   align-self: start;
