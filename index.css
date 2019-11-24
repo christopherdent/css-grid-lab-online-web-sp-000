@@ -18,7 +18,7 @@ body {
 
 
 .bigItem {
-  grid-area: 2 / 1 / span 2 / span 3;
+  grid-area: 2 / 1 / span 1 / span 3;
 }
 
 /* add the .bigItem class */
