@@ -23,7 +23,7 @@ body {
   height: 50%;
   width: 50%;
   justify-self: start;
-  align-self: start;
+  align-self: end;
 }
 
 /* add the .bigItem class */
