@@ -21,6 +21,7 @@ body {
 .bigItem {
    justify-content: center;
    align-items: center;
+   float: right;
 }
 
 /* add the .bigItem class */
