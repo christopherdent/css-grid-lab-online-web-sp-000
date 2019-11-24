@@ -19,9 +19,10 @@ body {
 
 
 .bigItem {
-   justify-content: center;
-   align-items: center;
-   float: right;
+  grid-area: 2 / 2 / 4 / 4;
+  height: 50%;
+  width: 50%;
+  justify-self: center;
 }
 
 /* add the .bigItem class */
